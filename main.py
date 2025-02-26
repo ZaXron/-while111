@@ -25,4 +25,5 @@ while num <= 9999:
     num += 1
 
 
+
 print(f"Number DIGGIT in range 100-9999: {count_digit}")
